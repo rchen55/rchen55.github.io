@@ -1,0 +1,48 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    text-align: center;
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+
+}
+.uiList {
+    list-style-type: none;
+}
+
+main {
+    border-style: solid;
+    border-color: black;
+    border-width: 0cap;
+    border-radius: 25px;
+    width: 40vw;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar {
+    width: 100vw;
+    height: 100px;
+    background-color: beige;
+    opacity: 0.5;
+    font-size: xx-large;
+}
+
+.navbarflex {
+    display: flex;
+    justify-content: right;
+    justify-content: space-evenly;
+}
+
+.navbarflex a {
+    all:unset;
+}
+
+
+
+
+
+
+
+
